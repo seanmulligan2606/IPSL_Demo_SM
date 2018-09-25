@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "virtualNetworkName": {
-      "value": "SM2ndtVnic"
+      "value": "SM3rdtVnic"
     },
     "addressPrefix": {
-      "value": "10.0.2.0/16"
+      "value": "10.0.0.3/16"
     },
     "subnet1Name": {
-      "value": "SMSecondSubnet"
+      "value": "SM3rddSubnet"
     },
     "subnet1Prefix": {
-      "value": "10.0.2.0/24"
+      "value": "10.0.3.0/24"
     }
   }
 }
